@@ -10,13 +10,18 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~MSle0~/bin
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1718153450,,"wq"
+|2,0,1718154667,,"wq"
 :qw
 |2,0,1718032296,,"qw"
 
 # Search String History (newest to oldest):
+?/bin/bash
+|2,1,1718154384,47,"bin/bash"
 
 # Expression History (newest to oldest):
 
@@ -30,230 +35,259 @@
 |3,0,32,0,1,0,1718032306,"w"
 
 # File marks:
-'0  2  12  ~/bash/school
-|4,48,2,12,1718153450,"~/bash/school"
-'1  2  9  ~/bash/alx
-|4,49,2,9,1718153229,"~/bash/alx"
-'2  1  6  ~/0x01_emacs/opening
-|4,50,1,6,1718032314,"~/0x01_emacs/opening"
-'3  1  0  ~/0x03_vi/end_of_the_line
-|4,51,1,0,1717532802,"~/0x03_vi/end_of_the_line"
-'4  1  0  ~/0x03_vi/beginning_of_the_line
-|4,52,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
-'5  1  1  ~/0x03_vi/exiting
-|4,53,1,1,1717532096,"~/0x03_vi/exiting"
-'6  1  0  ~/0x03_vi/undoing
-|4,54,1,0,1717531946,"~/0x03_vi/undoing"
-'7  1  1  ~/0x03_vi/pasting
-|4,55,1,1,1717531871,"~/0x03_vi/pasting"
-'8  1  0  ~/0x03_vi/cutting
-|4,56,1,0,1717531736,"~/0x03_vi/cutting"
-'9  1  10  ~/0x03_vi/inserting
-|4,57,1,10,1717531330,"~/0x03_vi/inserting"
+'0  2  11  ~/alx-zero_day/bash/school
+|4,48,2,11,1718154667,"~/alx-zero_day/bash/school"
+'1  2  9  ~/alx-zero_day/bash/alx
+|4,49,2,9,1718154622,"~/alx-zero_day/bash/alx"
+'2  2  12  ~/alx-zero_day/school
+|4,50,2,12,1718154430,"~/alx-zero_day/school"
+'3  2  8  ~/alx-zero_day/alx
+|4,51,2,8,1718154366,"~/alx-zero_day/alx"
+'4  2  12  ~/bash/school
+|4,52,2,12,1718153450,"~/bash/school"
+'5  2  9  ~/bash/alx
+|4,53,2,9,1718153229,"~/bash/alx"
+'6  1  6  ~/0x01_emacs/opening
+|4,54,1,6,1718032314,"~/0x01_emacs/opening"
+'7  1  0  ~/0x03_vi/end_of_the_line
+|4,55,1,0,1717532802,"~/0x03_vi/end_of_the_line"
+'8  1  0  ~/0x03_vi/beginning_of_the_line
+|4,56,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
+'9  1  1  ~/0x03_vi/exiting
+|4,57,1,1,1717532096,"~/0x03_vi/exiting"
 
 # Jumplist (newest first):
+-'  2  11  ~/alx-zero_day/bash/school
+|4,39,2,11,1718154667,"~/alx-zero_day/bash/school"
+-'  1  0  ~/alx-zero_day/bash/school
+|4,39,1,0,1718154636,"~/alx-zero_day/bash/school"
+-'  2  9  ~/alx-zero_day/bash/alx
+|4,39,2,9,1718154622,"~/alx-zero_day/bash/alx"
+-'  2  9  ~/alx-zero_day/bash/alx
+|4,39,2,9,1718154622,"~/alx-zero_day/bash/alx"
+-'  1  0  ~/alx-zero_day/bash/alx
+|4,39,1,0,1718154593,"~/alx-zero_day/bash/alx"
+-'  1  0  ~/alx-zero_day/bash/alx
+|4,39,1,0,1718154593,"~/alx-zero_day/bash/alx"
+-'  2  12  ~/alx-zero_day/school
+|4,39,2,12,1718154430,"~/alx-zero_day/school"
+-'  2  12  ~/alx-zero_day/school
+|4,39,2,12,1718154430,"~/alx-zero_day/school"
+-'  2  12  ~/alx-zero_day/school
+|4,39,2,12,1718154430,"~/alx-zero_day/school"
+-'  2  12  ~/alx-zero_day/school
+|4,39,2,12,1718154430,"~/alx-zero_day/school"
+-'  1  0  ~/alx-zero_day/school
+|4,39,1,0,1718154382,"~/alx-zero_day/school"
+-'  1  0  ~/alx-zero_day/school
+|4,39,1,0,1718154382,"~/alx-zero_day/school"
+-'  1  0  ~/alx-zero_day/school
+|4,39,1,0,1718154382,"~/alx-zero_day/school"
+-'  1  0  ~/alx-zero_day/school
+|4,39,1,0,1718154382,"~/alx-zero_day/school"
+-'  2  8  ~/alx-zero_day/alx
+|4,39,2,8,1718154366,"~/alx-zero_day/alx"
+-'  2  8  ~/alx-zero_day/alx
+|4,39,2,8,1718154366,"~/alx-zero_day/alx"
+-'  2  8  ~/alx-zero_day/alx
+|4,39,2,8,1718154366,"~/alx-zero_day/alx"
+-'  2  8  ~/alx-zero_day/alx
+|4,39,2,8,1718154366,"~/alx-zero_day/alx"
+-'  2  8  ~/alx-zero_day/alx
+|4,39,2,8,1718154366,"~/alx-zero_day/alx"
+-'  2  8  ~/alx-zero_day/alx
+|4,39,2,8,1718154366,"~/alx-zero_day/alx"
+-'  2  8  ~/alx-zero_day/alx
+|4,39,2,8,1718154366,"~/alx-zero_day/alx"
+-'  2  8  ~/alx-zero_day/alx
+|4,39,2,8,1718154366,"~/alx-zero_day/alx"
+-'  1  0  ~/alx-zero_day/alx
+|4,39,1,0,1718154311,"~/alx-zero_day/alx"
+-'  1  0  ~/alx-zero_day/alx
+|4,39,1,0,1718154311,"~/alx-zero_day/alx"
+-'  1  0  ~/alx-zero_day/alx
+|4,39,1,0,1718154311,"~/alx-zero_day/alx"
+-'  1  0  ~/alx-zero_day/alx
+|4,39,1,0,1718154311,"~/alx-zero_day/alx"
+-'  1  0  ~/alx-zero_day/alx
+|4,39,1,0,1718154311,"~/alx-zero_day/alx"
+-'  1  0  ~/alx-zero_day/alx
+|4,39,1,0,1718154311,"~/alx-zero_day/alx"
+-'  1  0  ~/alx-zero_day/alx
+|4,39,1,0,1718154311,"~/alx-zero_day/alx"
+-'  1  0  ~/alx-zero_day/alx
+|4,39,1,0,1718154311,"~/alx-zero_day/alx"
 -'  2  12  ~/bash/school
 |4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718153450,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718153380,"~/bash/school"
 -'  1  0  ~/bash/school
 |4,39,1,0,1718153380,"~/bash/school"
 -'  2  9  ~/bash/alx
 |4,39,2,9,1718153229,"~/bash/alx"
 -'  2  9  ~/bash/alx
 |4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
+-'  2  9  ~/bash/alx
+|4,39,2,9,1718153229,"~/bash/alx"
 -'  1  0  ~/bash/alx
 |4,39,1,0,1718153176,"~/bash/alx"
 -'  1  0  ~/bash/alx
 |4,39,1,0,1718153176,"~/bash/alx"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1718032314,"~/0x01_emacs/opening"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1718032314,"~/0x01_emacs/opening"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1718032314,"~/0x01_emacs/opening"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1718032314,"~/0x01_emacs/opening"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1717532802,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1717532802,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1717532802,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1717532802,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1717532802,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1717532802,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1717532802,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/end_of_the_line
-|4,39,1,0,1717532802,"~/0x03_vi/end_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  0  ~/0x03_vi/beginning_of_the_line
-|4,39,1,0,1717532577,"~/0x03_vi/beginning_of_the_line"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  1  ~/0x03_vi/exiting
-|4,39,1,1,1717532096,"~/0x03_vi/exiting"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
--'  1  0  ~/0x03_vi/undoing
-|4,39,1,0,1717531946,"~/0x03_vi/undoing"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1718153176,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1718153176,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1718153176,"~/bash/alx"
+-'  1  0  ~/bash/alx
+|4,39,1,0,1718153176,"~/bash/alx"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-zero_day/bash/school
+	*	1718154665	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	1	0
+	+	2	11
+
+> ~/alx-zero_day/bash/alx
+	*	1718154619	0
+	"	2	9
+	^	2	10
+	.	2	0
+	+	2	0
+
+> ~/alx-zero_day/school
+	*	1718154423	0
+	"	2	12
+	^	2	13
+	.	2	0
+	+	2	0
+
+> ~/alx-zero_day/alx
+	*	1718154363	0
+	"	2	8
+	^	2	9
+	.	2	0
+	+	2	0
 
 > ~/bash/school
 	*	1718153443	0
